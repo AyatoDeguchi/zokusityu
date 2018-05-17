@@ -1,0 +1,56 @@
+#foot {
+  /* ▼表示位置を画面の右下に固定 */
+  position: fixed; /* ←表示場所を固定 */
+  bottom: 18px;   /* ←下端からの距離 */
+  right: 18px;    /* ←右端からの距離 */
+  left: 18px;
+  background-color:#424242;
+  opacity: 0.9;             /* ←透明度 */
+  padding: 0;
+  margin: 0;
+  /*width: 90%;*/
+  height: 225px;
+  line-height: 90px;
+  text-align: left;
+  display: inline-block;
+  border-radius: 5%;
+  font-size: 50px;
+  /* ▼最初は非表示にしておく */
+  display: none;
+}
+#foot_left{
+  /* ▼表示位置を画面の右下に固定 */
+  position: fixed; /* ←表示場所を固定 */
+  bottom: 18px;   /* ←下端からの距離 */
+  left: 18px;
+  opacity: 0.9;             /* ←透明度 */
+  padding: 0;
+  margin: 0;
+  width: 72.5%;
+  height: 205px;
+  line-height: 90px;
+  text-align: left;
+  display: inline-block;
+  border-radius: 5%;
+  font-size: 50px;
+  /* ▼最初は非表示にしておく */
+  /*display: none;*/
+}
+#foot_right{
+  /* ▼表示位置を画面の右下に固定 */
+  position: fixed; /* ←表示場所を固定 */
+  bottom: 18px;   /* ←下端からの距離 */
+  right: 18px;
+  /*background-color:#81F7F3;
+  opacity: 0.9;*/             /* ←透明度 */
+  padding: 0;
+  margin: 0;
+  height: auto;
+  line-height: 90px;
+  text-align: left;
+  display: inline-block;
+  border-radius: 5%;
+  font-size: 50px;
+  /* ▼最初は非表示にしておく */
+  /*display: none;*/
+}

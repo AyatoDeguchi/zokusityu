@@ -1,0 +1,22 @@
+.balloon1-left {
+ 	position: relative;
+	display: inline-block;
+ 	margin: 5em 0 1.5em 40px;
+	padding: 30px 15px;
+	min-width: 240px;
+ 	max-width: 100%;
+  min-height: 50px;
+ 	color: #555;
+	font-size: 20px;
+	background: #F2F2F2;
+}
+
+.balloon1-left:before{
+	content: "";
+	position: absolute;
+	top: 50%;
+	left: -60px;
+ 	margin-top: -30px;
+	border: 30px solid transparent;
+	border-right: 30px solid #F2F2F2;
+}

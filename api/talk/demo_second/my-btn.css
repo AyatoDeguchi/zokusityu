@@ -1,0 +1,52 @@
+.my-btn
+{
+  font-size: 18px;
+  color: #3A3A3A;
+  letter-spacing: 2px;
+  text-align: center;
+  font-weight: bold;
+  width: 100px;
+  height: 50px;
+  border: 1px solid #3A3A3A;
+  background: rgba(255,255,255,0.8);
+  margin-bottom: 20px;
+}
+.my-btn_s
+{
+  font-size: 18px;
+  color: #3A3A3A;
+  letter-spacing: 2px;
+  text-align: center;
+  font-weight: bold;
+  width: 100px;
+  height: 50px;
+  border: 1px solid #3A3A3A;
+  background: rgba(255,176,227,0.8);
+  margin: 10px;
+}
+.my-btn_tsu
+{
+  font-size: 18px;
+  color: #3A3A3A;
+  letter-spacing: 2px;
+  text-align: center;
+  font-weight: bold;
+  width: 100px;
+  height: 50px;
+  border: 1px solid #3A3A3A;
+  background: rgba(138,255,255,0.8);
+  margin: 10px;
+}
+.my-btn_imo
+{
+  font-size: 18px;
+  color: #3A3A3A;
+  letter-spacing: 2px;
+  text-align: center;
+  font-weight: bold;
+  width: 100px;
+  height: 50px;
+  border: 1px solid #3A3A3A;
+  background: rgba(255,208,133,0.8);
+  margin: 10px;
+}

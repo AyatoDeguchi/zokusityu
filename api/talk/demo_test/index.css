@@ -1,0 +1,21 @@
+body{
+  background-image: url("img/haikei.png");
+  background-position: center center;
+  -moz-background-size:auto 100%;
+  background-size:auto 100%;
+  margin: 0;
+}
+.bkRGBA{
+  /* 背景画像の透過用css */
+  height: 100%;
+  background: rgba(255,255,255,0.5);
+}
+
+.check_box{
+  display: inline-block;
+  font-size: 16px;
+}
+
+.check_boxContainer{
+  font-size: 0;
+}

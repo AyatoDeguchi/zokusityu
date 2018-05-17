@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>属シチュ</title>
+    <script>
+    var text = "アンタのことなんて好きじゃっないんだから";
+    var synthes = new SpeechSynthesisUtterance(text);
+		synthes.lang = "ja-JP"
+		synthes.voiceURI = 'native';
+		synthes.volume = 1;
+		synthes.rate = 0.8;
+		synthes.pitch = 14;
+    speechSynthesis.speak( synthes );
+    </script>
+  </head>
+	<body>
+	</body>
+</html>

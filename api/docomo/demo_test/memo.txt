@@ -1,0 +1,14 @@
+使用したファイル
+
+docomo_api
+・img/
+・・1024793.png
+・・564196.png
+・・963534.png
+・・haikei.png
+・index.php
+・index.css
+・api.js
+・app.js
+・json.php
+・aiman.php
